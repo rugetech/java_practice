@@ -3,8 +3,8 @@ package practice3;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-class Calculator {
-    public static void main(String[] args) {
+public class Calculator {
+    public  void start() {
         int fst = 0, sec = 0, choice = 0, add, sub, mul;
         float div;
         String _fst, _sec, choose, welcome;
