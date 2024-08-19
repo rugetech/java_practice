@@ -1,0 +1,12 @@
+M-PESA
+1 Tuma pesa
+2 Toa pesa
+3 Nunua Vifurushi/Muda wa Maongezi
+4 LIPA kwa M-Pesa
+5 Mikopo na Akiba
+6 Huduma za kifedha
+7 Jihudumie
+8 NI BALAA
+
+Timeout popup: Connection problem or invalid MMI code
+Starting popup: (After code Entered) USSD code running
