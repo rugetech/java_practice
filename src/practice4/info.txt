@@ -10,3 +10,17 @@ M-PESA
 
 Timeout popup: Connection problem or invalid MMI code
 Starting popup: (After code Entered) USSD code running
+
+the idea keep growing everytime i accomplish a certain step on this project.
+which feels great...
+
+Instead of just string variables, I will do string arraylist, and the output to be input minus 1.
+then use string split method to split the first number/word before space. and print the rest plus word 'MENU'
+
+then if above tasks are I'll create 8 classes for each menu and put their choice in each.
+
+God help me.
+
+UPDATE
+I had to study array, string methods
+how to avoid repetition of code (I am lazy)
